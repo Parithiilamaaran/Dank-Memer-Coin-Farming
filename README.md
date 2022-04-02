@@ -3,7 +3,7 @@
 1.Download Auto Hot Key Software from
 https://www.autohotkey.com/
 
-2.Download Miner.ahk file
+2.Download .ahk file or .exe
 
 3.Right click the file and give Run Script
 
