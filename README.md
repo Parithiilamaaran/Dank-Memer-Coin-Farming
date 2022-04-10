@@ -1,16 +1,13 @@
 # Dank-Memer-Coin-Farming
 
-1.Download Auto Hot Key Software from
-https://www.autohotkey.com/
+1.Download .exe file
 
-2.Download .ahk file or .exe
+2.Left click the file
 
-3.Right click the file and give Run Script
+3.Start a server to mine in and add the Dank Memer Bot
+Bot invite link: [invite.dankmemer.lol](url)
 
-4.Start a server to mine in and add the Dank Memer Bot
-Bot invite link: [invite.dankmemer.lol]
-
-5. Press  F1 to start farming
+4. Press  F1 to start farming
 
 To Stop:
 
